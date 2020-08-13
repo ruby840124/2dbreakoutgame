@@ -155,7 +155,7 @@ class game extends React.Component{
                     if (result.value) {
                         this.initAnimation();
                     }else{
-                        document.location.href = '/';
+                        document.location.href = 'https://ruby840124.github.io/2dbreakoutgame/';
                     }
                   })
             }
@@ -253,7 +253,7 @@ class game extends React.Component{
                                         level = level + 1;
                                         this.initAnimation();
                                     } else {
-                                        document.location.href = '/';
+                                        document.location.href = 'https://ruby840124.github.io/2dbreakoutgame/';
                                     }
                               })
                             } else {
@@ -266,7 +266,7 @@ class game extends React.Component{
                                     imageAlt: 'Custom image',
                                   }).then((result) => {
                                     if (result.value) {
-                                        document.location.href = '/';
+                                        document.location.href = 'https://ruby840124.github.io/2dbreakoutgame/';
                                     }
                               })
                             }
