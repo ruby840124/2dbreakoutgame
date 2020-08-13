@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f423a75451791b850790ad0755e238d4",
+    "revision": "398775d8de8d1708aa84038eca408d27",
     "url": "/2dbreakoutgame/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2dbreakoutgame/static/css/2.b00f4da7.chunk.css"
   },
   {
-    "revision": "f7f37c3756a19a46767d",
+    "revision": "4913f77a4a0c786ee88c",
     "url": "/2dbreakoutgame/static/css/main.1bf5f61c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/2dbreakoutgame/static/js/2.f0931f98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7f37c3756a19a46767d",
-    "url": "/2dbreakoutgame/static/js/main.fb24555a.chunk.js"
+    "revision": "4913f77a4a0c786ee88c",
+    "url": "/2dbreakoutgame/static/js/main.d8ddf77a.chunk.js"
   },
   {
     "revision": "3cdf135c198f74354831",
