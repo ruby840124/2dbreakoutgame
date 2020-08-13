@@ -27,7 +27,7 @@ react版本的canvas小遊戲<br>
 
 ## mobile
 ▶▶mobile首頁<br>
-<img src="https://github.com/ruby840124/2dbreakoutgame/blob/master/snapshot/7.JPG" width="60%" height="70%"> <br><br>
+<img src="https://github.com/ruby840124/2dbreakoutgame/blob/master/snapshot/7.jpg" width="60%" height="70%"> <br><br>
 
 # demo
 https://ruby840124.github.io/2dbreakoutgame/
