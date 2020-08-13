@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/2dbreakoutgame/static/css/main.1bf5f61c.chunk.css",
-    "main.js": "/2dbreakoutgame/static/js/main.3701d006.chunk.js",
-    "main.js.map": "/2dbreakoutgame/static/js/main.3701d006.chunk.js.map",
+    "main.js": "/2dbreakoutgame/static/js/main.fb881f85.chunk.js",
+    "main.js.map": "/2dbreakoutgame/static/js/main.fb881f85.chunk.js.map",
     "runtime-main.js": "/2dbreakoutgame/static/js/runtime-main.84c11f3e.js",
     "runtime-main.js.map": "/2dbreakoutgame/static/js/runtime-main.84c11f3e.js.map",
     "static/css/2.b00f4da7.chunk.css": "/2dbreakoutgame/static/css/2.b00f4da7.chunk.css",
     "static/js/2.f0931f98.chunk.js": "/2dbreakoutgame/static/js/2.f0931f98.chunk.js",
     "static/js/2.f0931f98.chunk.js.map": "/2dbreakoutgame/static/js/2.f0931f98.chunk.js.map",
     "index.html": "/2dbreakoutgame/index.html",
-    "precache-manifest.688cfc9cd357494247d64c86ee7dd003.js": "/2dbreakoutgame/precache-manifest.688cfc9cd357494247d64c86ee7dd003.js",
+    "precache-manifest.86db39753f657c776d383b6bca96ca65.js": "/2dbreakoutgame/precache-manifest.86db39753f657c776d383b6bca96ca65.js",
     "service-worker.js": "/2dbreakoutgame/service-worker.js",
     "static/css/2.b00f4da7.chunk.css.map": "/2dbreakoutgame/static/css/2.b00f4da7.chunk.css.map",
     "static/css/main.1bf5f61c.chunk.css.map": "/2dbreakoutgame/static/css/main.1bf5f61c.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.b00f4da7.chunk.css",
     "static/js/2.f0931f98.chunk.js",
     "static/css/main.1bf5f61c.chunk.css",
-    "static/js/main.3701d006.chunk.js"
+    "static/js/main.fb881f85.chunk.js"
   ]
 }
