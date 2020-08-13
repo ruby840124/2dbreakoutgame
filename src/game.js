@@ -33,8 +33,8 @@ const levelName = ['anders','minray','hero','gary'];
 const bricks = [];
 const brickRowCount = 3;
 const brickColumnCount = 8;
-const brickWidth = 55;
-const brickHeight = 55;
+const brickWidth = 45;
+const brickHeight = 45;
 const brickPadding = 10;
 const brickOffsetTop = 40;
 const brickOffsetLeft = (600 - brickWidth * brickColumnCount - (brickColumnCount - 1) * brickPadding) / 2;
@@ -112,7 +112,7 @@ class game extends React.Component{
         const paddleX = (canvas.width - paddleWidth) / 2;
         const ballX = canvas.width / 2;
         const ballY = canvas.height - 30;
-        const setTime = setInterval(this.draw, 1);
+        const setTime = setInterval(this.draw, 10);
 
         for(let c = 0; c < brickColumnCount; c++) {
             bricks[c] = [];
