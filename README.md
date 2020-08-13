@@ -20,10 +20,10 @@ react版本的canvas小遊戲<br>
 <img src="https://github.com/ruby840124/2dbreakoutgame/blob/master/snapshot/4.JPG" width="50%" height="70%"> <br><br>
 ▶▶遊戲畫面<br>
 用鍵盤的左右鍵控制<br>
-沒錯幫我打爆他們~謝謝<br>
+沒錯幫我打爆他們謝謝<br>
 <img src="https://github.com/ruby840124/2dbreakoutgame/blob/master/snapshot/5.JPG" width="50%" height="70%"> <br><br>
 ▶▶輸的畫面<br>
-哎呀 輸了~<br>
+哎呀 輸ㄌ!<br>
 <img src="https://github.com/ruby840124/2dbreakoutgame/blob/master/snapshot/6.JPG" width="50%" height="70%"> <br><br>
 
 ## mobile
