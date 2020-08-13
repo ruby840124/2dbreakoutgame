@@ -8,7 +8,7 @@ react版本的canvas小遊戲<br>
 
 ## PC
 ▶▶PC首頁<br>
-<img src="https://github.com/ruby840124/2dbreakoutgame/blob/master/snapshot/1.JPG" width="60%" height="80%"> <br><br>
+<img src="https://github.com/ruby840124/2dbreakoutgame/blob/master/snapshot/1.JPG" width="50%" height="70%"> <br><br>
 ▶▶settings<br>
 目前還沒什麼用的設定<br>
 <img src="https://github.com/ruby840124/2dbreakoutgame/blob/master/snapshot/2.JPG" width="60%" height="80%"> <br><br>
